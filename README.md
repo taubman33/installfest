@@ -1,7 +1,6 @@
 
-# Unit 1 Installations
+# Installations
 
-## SEIR 123
 
 
 ![](https://weeblytutorials.com/wp-content/uploads/2018/10/install-Weebly-Apps.jpeg)
